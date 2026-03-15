@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AGI -Artificial General Intelligence.png" width="100%" />
+  <img src="AGI -Artificial General Intelligence (1).png" width="100%" />
 </p>
 
 # 🚀 Benoît | Étudiant
